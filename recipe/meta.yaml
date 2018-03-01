@@ -1,6 +1,6 @@
 {% set name = "delegator.py" %}
-{% set version = "0.0.13" %}
-{% set sha256 = "495e11ada66648650171a6c9a188df4eb050b235abff8771f41ee8a064eb9ded" %}
+{% set version = "0.1.0" %}
+{% set sha256 = "2d46966a7f484d271b09e2646eae1e9acadc4fdf2cb760c142f073e81c927d8d" %}
 
 package:
   name: delegator
