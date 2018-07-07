@@ -19,14 +19,15 @@ runs a chain of commands, seperated by the standard unix pipe operator "|"
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/delegator-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/delegator-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/delegator-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/delegator-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/delegator-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/delegator-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/delegator-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/delegator-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/delegator/badges/version.svg)](https://anaconda.org/conda-forge/delegator)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/delegator/badges/downloads.svg)](https://anaconda.org/conda-forge/delegator)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-delegator-green.svg)](https://anaconda.org/conda-forge/delegator) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/delegator.svg)](https://anaconda.org/conda-forge/delegator) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/delegator.svg)](https://anaconda.org/conda-forge/delegator) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/delegator.svg)](https://anaconda.org/conda-forge/delegator) |
 
 Installing delegator
 ====================
