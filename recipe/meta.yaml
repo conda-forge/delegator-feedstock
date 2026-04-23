@@ -1,6 +1,6 @@
 {% set name = "delegator.py" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "2d46966a7f484d271b09e2646eae1e9acadc4fdf2cb760c142f073e81c927d8d" %}
+{% set version = "0.1.1" %}
+{% set sha256 = "e6cc9cedab9ae59b169ee0422e17231adedadb144e63c0b5a60e6ff8adf8521b" %}
 
 package:
   name: delegator
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
